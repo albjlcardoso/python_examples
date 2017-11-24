@@ -1,2 +1,2 @@
 # python_examples
-Examples of Python files
+Examples of iPython files
